@@ -1,0 +1,2 @@
+friends = 'Maksim'
+print(friends)
